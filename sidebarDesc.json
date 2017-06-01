@@ -2,16 +2,36 @@
 	{
 		"name" : "Chris Gay",
 		"photo" : "https://raw.githubusercontent.com/Jermaine603/CareAdvisors/master/Images/Chris.jpg",
-		"bio" : "Hi im Chris, CEO and Founder at Care Advisors. Lorem ipsum dolor sit amet, rutrum elit non viverra odio, fermentum praesent bibendum platea et neque, condimentum commodo. Rutrum integer vitae ac ligula massa, tincidunt felis, elementum dapibus id, quisque fringilla congue duis sem proin et. Dictum eu nisl elementum at."
+		"bio" : "Hi im Chris, CEO and Founder at Care Advisors."
+		"color" : "#E02E49"
 	},
 	{
 		"name" : "Dawn Gay",
 		"photo" : "https://raw.githubusercontent.com/Jermaine603/CareAdvisors/master/Images/GG.jpg",
-		"bio" : "Hi i'm Graciela, Navigator Director of hospital relations at Care Advisors. Lorem ipsum dolor sit amet, rutrum elit non viverra odio, fermentum praesent bibendum platea et neque, condimentum commodo. Rutrum integer vitae ac ligula massa, tincidunt felis, elementum dapibus id, quisque fringilla congue duis sem proin et. Dictum eu nisl elementum at."
+		"bio" : "Hi i'm Dawn, Executive Director of hospital relations at Care Advisors.",
+		"color" : "#00A8F2"
+	},
+	{
+		"name" : "Melanie McQueen",
+		"photo" : "https://raw.githubusercontent.com/Jermaine603/CareAdvisors/master/Images/Jermaine.jpg",
+		"bio" : "Hi i'm Melanie, Navigator Director at Care Advisors.",
+		"color" : "#BF0473"
 	},
 	{
 		"name" : "Jermaine Lee",
 		"photo" : "https://raw.githubusercontent.com/Jermaine603/CareAdvisors/master/Images/Jermaine.jpg",
-		"bio" : "Hi i'm Jermaine, Lead UI/UX Designer at Care Advisors. Lorem ipsum dolor sit amet, rutrum elit non viverra odio, fermentum praesent bibendum platea et neque, condimentum commodo. Rutrum integer vitae ac ligula massa, tincidunt felis, elementum dapibus id, quisque fringilla congue duis sem proin et. Dictum eu nisl elementum at."
+		"bio" : "Hi i'm Jermaine, Lead UI/UX Designer at Care Advisors.",
+		"color" : "#00A8F2"
+	},
+	{
+		"name" : "Bradley Awodu",
+		"photo" : "https://raw.githubusercontent.com/Jermaine603/CareAdvisors/master/Images/Jermaine.jpg",
+		"bio" : "Hi i'm Bradley, Front-End Developer at Care Advisors.",
+		"color" : "#FFBB12"
+	},
+	{	"name" : "David Elutilo",
+		"photo" : "https://raw.githubusercontent.com/Jermaine603/CareAdvisors/master/Images/Jermaine.jpg",
+		"bio" : "Hi i'm David, Lead UI/UX Designer at Care Advisors.",
+		"color" : "#E02E49"
 	}
 ]}
