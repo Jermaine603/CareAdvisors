@@ -1,36 +1,36 @@
 {"team" : [
 	{
 		"name" : "Chris Gay",
-		"photo" : "https://raw.githubusercontent.com/Jermaine603/CareAdvisors/master/Images/Team-16.png",
+		"photo" : "./Images/Team_Page/Jermaine.png",
 		"bio" : "Hi im Chris, CEO and Founder at Care Advisors.",
 		"color" : "#E02E49"
 	},
 	{
 		"name" : "Dawn Gay",
-		"photo" : "https://raw.githubusercontent.com/Jermaine603/CareAdvisors/master/Images/Team-15.png",
+		"photo" : "./Images/Team_Page/Jermaine.png",
 		"bio" : "Hi i'm Dawn, Executive Director of hospital relations at Care Advisors.",
 		"color" : "#00A8F2"
 	},
 	{
 		"name" : "Melanie McQueen",
-		"photo" : "https://raw.githubusercontent.com/Jermaine603/CareAdvisors/master/Images/Team-14.png",
+		"photo" : "./Images/Team_Page/Jermaine.png",
 		"bio" : "Hi i'm Melanie, Navigator Director at Care Advisors.",
 		"color" : "#BF0473"
 	},
 	{
 		"name" : "Jermaine Lee",
-		"photo" : "https://raw.githubusercontent.com/Jermaine603/CareAdvisors/master/Images/Team-11.png",
-		"bio" : "Hi i'm Jermaine, Lead UI/UX Designer at Care Advisors.",
+		"photo" : "./Images/Team_Page/Jermaine.png",
+		"bio" : "Hi, my name is Jermaine, UI/UX Designer at Care Advisors. I help make the complex, simple.",
 		"color" : "#00A8F2"
 	},
 	{
 		"name" : "Bradley Awodu",
-		"photo" : "https://raw.githubusercontent.com/Jermaine603/CareAdvisors/master/Images/Team-13.png",
+		"photo" : "./Images/Team_Page/Jermaine.png",
 		"bio" : "Hi i'm Bradley, Front-End Developer at Care Advisors.",
 		"color" : "#FFBB12"
 	},
 	{	"name" : "David Elutilo",
-		"photo" : "https://raw.githubusercontent.com/Jermaine603/CareAdvisors/master/Images/Team-12.png",
+		"photo" : "./Images/Team_Page/Jermaine.png",
 		"bio" : "Hi i'm David, Lead UI/UX Designer at Care Advisors.",
 		"color" : "#E02E49"
 	}
