@@ -1,19 +1,19 @@
 {"team" : [
 	{
 		"name" : "Chris Gay",
-		"photo" : "./Images/Team_Page/Jermaine.png",
+		"photo" : "./Images/Team_Page/Chris.png",
 		"bio" : "Hi im Chris, CEO and Founder at Care Advisors.",
 		"color" : "#E02E49"
 	},
 	{
 		"name" : "Dawn Gay",
-		"photo" : "./Images/Team_Page/Jermaine.png",
+		"photo" : "./Images/Team_Page/Dawn.png",
 		"bio" : "Hi i'm Dawn, Executive Director of hospital relations at Care Advisors.",
 		"color" : "#00A8F2"
 	},
 	{
 		"name" : "Melanie McQueen",
-		"photo" : "./Images/Team_Page/Jermaine.png",
+		"photo" : "./Images/Team_Page/MM.png",
 		"bio" : "Hi i'm Melanie, Navigator Director at Care Advisors.",
 		"color" : "#BF0473"
 	},
@@ -25,13 +25,18 @@
 	},
 	{
 		"name" : "Bradley Awodu",
-		"photo" : "./Images/Team_Page/Jermaine.png",
+		"photo" : "./Images/Team_Page/Brad.png",
 		"bio" : "Hi i'm Bradley, Front-End Developer at Care Advisors.",
 		"color" : "#FFBB12"
 	},
 	{	"name" : "David Elutilo",
-		"photo" : "./Images/Team_Page/Jermaine.png",
+		"photo" : "./Images/Team_Page/David.png",
 		"bio" : "Hi i'm David, Lead UI/UX Designer at Care Advisors.",
+		"color" : "#E02E49"
+	},
+	{	"name" : "Graciela Guzman",
+		"photo" : "./Images/Team_Page/GG.png",
+		"bio" : "Hi i'm Graciela, Lead UI/UX Designer at Care Advisors.",
 		"color" : "#E02E49"
 	}
 ]}
